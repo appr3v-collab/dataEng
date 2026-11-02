@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+
+population.db
+population_report.csv
+pipeline.log
+cron.log
